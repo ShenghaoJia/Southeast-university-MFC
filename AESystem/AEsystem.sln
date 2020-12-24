@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AEsystem", "AEsystem.vcxproj", "{A6DC3574-23A3-4B09-881F-3F2B1C35B854}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AEsystemSetUp", "..\AEsystemSetUp\AEsystemSetUp.vdproj", "{DE3E623E-2A2E-419F-84C6-D8BF601E517C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Debug|x64.ActiveCfg = Debug|x64
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Debug|x64.Build.0 = Debug|x64
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Debug|x86.Build.0 = Debug|Win32
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Release|x64.ActiveCfg = Release|x64
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Release|x64.Build.0 = Release|x64
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Release|x86.ActiveCfg = Release|Win32
+		{A6DC3574-23A3-4B09-881F-3F2B1C35B854}.Release|x86.Build.0 = Release|Win32
+		{DE3E623E-2A2E-419F-84C6-D8BF601E517C}.Debug|x64.ActiveCfg = Debug
+		{DE3E623E-2A2E-419F-84C6-D8BF601E517C}.Debug|x86.ActiveCfg = Debug
+		{DE3E623E-2A2E-419F-84C6-D8BF601E517C}.Release|x64.ActiveCfg = Release
+		{DE3E623E-2A2E-419F-84C6-D8BF601E517C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86948F2-B2A1-4A4E-A4A5-384123F476A5}
+	EndGlobalSection
+EndGlobal
